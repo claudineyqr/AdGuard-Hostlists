@@ -3,4 +3,4 @@
 @@||s.youtube.com^
 @@||clickserve.dartsearch.net^
 @@||azioncdn.net^
-@@||www.voitto.com.br^
+@@||voitto.com.br^
