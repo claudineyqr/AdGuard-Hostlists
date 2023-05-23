@@ -1,0 +1,6 @@
+@@||s.click.aliexpress.com^
+@@||ad.doubleclick.net^
+@@||s.youtube.com^
+@@||clickserve.dartsearch.net^
+@@||azioncdn.net^
+@@||www.voitto.com.br^
