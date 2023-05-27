@@ -4,3 +4,4 @@
 @@||clickserve.dartsearch.net^
 @@||azioncdn.net^
 @@||voitto.com.br^
+@@||saa.paramountplus.com^
