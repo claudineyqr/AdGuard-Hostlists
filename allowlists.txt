@@ -5,3 +5,4 @@
 @@||azioncdn.net^
 @@||voitto.com.br^
 @@||saa.paramountplus.com^
+@@||solidpower.cloudstorage.pw^
