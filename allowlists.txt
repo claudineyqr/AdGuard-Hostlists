@@ -10,4 +10,4 @@
 @@||www.googleadservices.com^
 @@||app.appsflyer.com^
 @@||kabum.com.br^
-@@||horizon-track.globo.com^
+@@||horizon-track.globo.com^$client='192.168.222.1'
