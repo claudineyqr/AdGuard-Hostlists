@@ -10,3 +10,4 @@
 @@||www.googleadservices.com^
 @@||app.appsflyer.com^
 @@||kabum.com.br^
+@@||horizon-track.globo.com^
