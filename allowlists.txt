@@ -11,4 +11,3 @@
 @@||app.appsflyer.com^
 @@||kabum.com.br^
 @@||horizon-track.globo.com^$client='192.168.222.1'
-@@||scribe.logs.roku.com^
