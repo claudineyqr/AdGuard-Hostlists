@@ -11,3 +11,4 @@
 @@||app.appsflyer.com^
 @@||kabum.com.br^
 @@||horizon-track.globo.com^$client='192.168.222.1'
+@@||horizon-track.globo.com^$client='192.168.222.3'
