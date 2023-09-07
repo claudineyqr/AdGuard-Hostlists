@@ -17,4 +17,5 @@
 @@||cws.conviva.com^
 @@||liberty.logs.roku.com^
 @@||scribe.logs.roku.com^
-
+@@||sanalytics.disneyplus.com^
+@@||mads.amazon.com^
