@@ -19,5 +19,6 @@
 @@||scribe.logs.roku.com^
 @@||sanalytics.disneyplus.com^
 @@||mads.amazon.com^
+
 @@||horizon.globo.com^$client='192.168.222.1'
 @@||horizon.globo.com^$client='192.168.222.3'
