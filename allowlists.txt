@@ -22,3 +22,4 @@
 @@||scribe.logs.roku.com^
 @@||sanalytics.disneyplus.com^
 @@||mads.amazon.com^
+@@||www.solucx.com.br^
