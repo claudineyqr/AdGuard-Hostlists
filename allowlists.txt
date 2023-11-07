@@ -1,5 +1,5 @@
-@@||horizon-track.globo.com^$client='192.168.222.1|192.168.222.3'
-@@||horizon.globo.com^$client='192.168.222.1|192.168.222.3'
+@@||horizon-track.globo.com^$client=192.168.222.1|192.168.222.3
+@@||horizon.globo.com^$client=192.168.222.1|192.168.222.3
 @@||s.click.aliexpress.com^
 @@||ad.doubleclick.net^
 @@||s.youtube.com^
@@ -13,3 +13,12 @@
 @@||app.appsflyer.com^
 @@||kabum.com.br^
 @@||disneyplus.com^
+@@||conduit.redfast.com^
+@@||scribe.logs.roku.com^
+@@||liberty.logs.roku.com^
+@@||mobile.logs.roku.com^
+@@||dpm.demdex.net^
+@@||tags.tiqcdn.com^
+@@||kvinit-prod.api.kochava.com^
+@@||cws.conviva.com^
+@@||cbsinteractive.hb.omtrdc.net^

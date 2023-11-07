@@ -2,3 +2,4 @@
 ||c-123milhas.shop^
 ||lojastarlink.com^
 ||starlinkoficialshop.com^
+||-ds.metric.gstatic.com^
