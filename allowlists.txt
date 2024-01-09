@@ -24,3 +24,5 @@
 @@||cbsinteractive.hb.omtrdc.net^$important
 @@||player-telemetry.vimeo.com^$important
 @@||113vod-adaptive.akamaized.net^$important
+@@||js.appboycdn.com^$important
+@@||js-agent.newrelic.com^$important
