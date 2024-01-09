@@ -49,3 +49,6 @@
 
 # discord
 @@||click.discord.com^$important
+
+# discoveryplus
+@@||discoveryplus.com^$important
