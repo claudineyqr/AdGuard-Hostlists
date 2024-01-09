@@ -31,3 +31,5 @@
 @@||js-agent.newrelic.com^$important
 @@||cdn.cookielaw.org^$important
 @@||bam.nr-data.net^$important
+
+@@||click.discord.com^$important
