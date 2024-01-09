@@ -1,19 +1,30 @@
+# globo
 @@||horizon-track.globo.com^$client=192.168.222.1|192.168.222.3
 @@||horizon.globo.com^$client=192.168.222.1|192.168.222.3
+
 @@||s.click.aliexpress.com^$important
-@@||ad.doubleclick.net^$important
-@@||s.youtube.com^$important
 @@||clickserve.dartsearch.net^$important
+@@||ad.doubleclick.net^$important
+
+# youtube
+@@||s.youtube.com^$important
+
 @@||azioncdn.net^$important
 @@||voitto.com.br^$important
 @@||cloudstorage.pw^$important
+
+# google
 @@||www.googletagmanager.com^$important
 @@||www.googleadservices.com^$important
+
 @@||app.appsflyer.com^$important
+
 @@||kabum.com.br^$important
+
 # disneyplus
 @@||disneyplus.com^$important
 @@||conduit.redfast.com^$important
+
 # roku
 @@||scribe.logs.roku.com^$important
 @@||liberty.logs.roku.com^$important
@@ -23,8 +34,11 @@
 @@||kvinit-prod.api.kochava.com^$important
 @@||cws.conviva.com^$important
 @@||cbsinteractive.hb.omtrdc.net^$important
+
+# vimeo
 @@||player-telemetry.vimeo.com^$important
 @@||113vod-adaptive.akamaized.net^$important
+
 # paramountplus
 @@||paramountplus.com^$important
 @@||js.appboycdn.com^$important
@@ -33,4 +47,5 @@
 @@||bam.nr-data.net^$important
 @@||s.amazon-adsystem.com^$important
 
+# discord
 @@||click.discord.com^$important
