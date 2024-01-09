@@ -6,14 +6,15 @@
 @@||clickserve.dartsearch.net^$important
 @@||azioncdn.net^$important
 @@||voitto.com.br^$important
-@@||paramountplus.com^$important
 @@||cloudstorage.pw^$important
 @@||www.googletagmanager.com^$important
 @@||www.googleadservices.com^$important
 @@||app.appsflyer.com^$important
 @@||kabum.com.br^$important
+# disneyplus
 @@||disneyplus.com^$important
 @@||conduit.redfast.com^$important
+# roku
 @@||scribe.logs.roku.com^$important
 @@||liberty.logs.roku.com^$important
 @@||mobile.logs.roku.com^$important
@@ -24,5 +25,9 @@
 @@||cbsinteractive.hb.omtrdc.net^$important
 @@||player-telemetry.vimeo.com^$important
 @@||113vod-adaptive.akamaized.net^$important
+# paramountplus
+@@||paramountplus.com^$important
 @@||js.appboycdn.com^$important
 @@||js-agent.newrelic.com^$important
+@@||cdn.cookielaw.org^$important
+@@||bam.nr-data.net^$important
