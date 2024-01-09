@@ -31,5 +31,6 @@
 @@||js-agent.newrelic.com^$important
 @@||cdn.cookielaw.org^$important
 @@||bam.nr-data.net^$important
+@@||s.amazon-adsystem.com^$important
 
 @@||click.discord.com^$important
