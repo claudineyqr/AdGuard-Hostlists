@@ -52,3 +52,6 @@
 
 # discoveryplus
 @@||discoveryplus.com^$important
+
+# onesignal
+@@||cdn.onesignal.com^$important
