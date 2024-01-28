@@ -55,3 +55,6 @@
 
 # onesignal
 @@||cdn.onesignal.com^$important
+
+# Microsoft
+@@||g.live.com^$important
