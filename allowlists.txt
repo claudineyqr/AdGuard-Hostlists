@@ -29,7 +29,7 @@
 @@||scribe.logs.roku.com^$important
 @@||liberty.logs.roku.com^$important
 @@||mobile.logs.roku.com^$important
-@@||dpm.demdex.net^$important
+#@@||dpm.demdex.net^$important
 @@||tags.tiqcdn.com^$important
 @@||kvinit-prod.api.kochava.com^$important
 @@||cws.conviva.com^$important
