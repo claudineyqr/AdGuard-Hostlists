@@ -1,6 +1,5 @@
 # globo
-@@||horizon-track.globo.com^$client=192.168.222.1|192.168.222.3
-@@||horizon.globo.com^$client=192.168.222.1|192.168.222.3
+
 
 @@||s.click.aliexpress.com^$important
 @@||clickserve.dartsearch.net^$important
