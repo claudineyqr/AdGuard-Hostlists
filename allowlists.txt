@@ -1,16 +1,13 @@
-# globo
-
-
+# Outros
 @@||s.click.aliexpress.com^$important
 @@||clickserve.dartsearch.net^$important
 @@||ad.doubleclick.net^$important
-
-# youtube
-@@||s.youtube.com^$important
-
 @@||azioncdn.net^$important
 @@||voitto.com.br^$important
 @@||cloudstorage.pw^$important
+
+# youtube
+@@||s.youtube.com^$important
 
 # google
 @@||www.googletagmanager.com^$important
@@ -57,3 +54,6 @@
 
 # Microsoft
 @@||g.live.com^$important
+
+# Azure
+@@||applicationinsights.azure.com^$important
