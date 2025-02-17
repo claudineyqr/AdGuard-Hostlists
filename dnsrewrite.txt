@@ -1,3 +1,0 @@
-# Fix Ipv6 Starlink
-# Microsoft
-||google.com^$dnsrewrite=A
