@@ -3,10 +3,6 @@
 @@||clickserve.dartsearch.net^$important
 @@||ad.doubleclick.net^$important
 @@||azioncdn.net^$important
-@@||voitto.com.br^$important
-@@||cloudstorage.pw^$important
-@@||app.appsflyer.com^$important
-@@||kabum.com.br^$important
 
 # youtube
 @@||s.youtube.com^$important
@@ -20,14 +16,14 @@
 @@||conduit.redfast.com^$important
 
 # roku
-@@||scribe.logs.roku.com^$important
-@@||liberty.logs.roku.com^$important
-@@||mobile.logs.roku.com^$important
+# @@||scribe.logs.roku.com^$important
+# @@||liberty.logs.roku.com^$important
+# @@||mobile.logs.roku.com^$important
 # @@||dpm.demdex.net^$important
-@@||tags.tiqcdn.com^$important
-@@||kvinit-prod.api.kochava.com^$important
-@@||cws.conviva.com^$important
-@@||cbsinteractive.hb.omtrdc.net^$important
+# @@||tags.tiqcdn.com^$important
+# @@||kvinit-prod.api.kochava.com^$important
+# @@||cws.conviva.com^$important
+# @@||cbsinteractive.hb.omtrdc.net^$important
 
 # vimeo
 @@||player-telemetry.vimeo.com^$important
