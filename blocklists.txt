@@ -5,5 +5,5 @@
 ||-ds.metric.gstatic.com^
 
 # facebook
-|graph.facebook.com^
-|graph-fallback.facebook.com^
+||graph.facebook.com^
+||graph-fallback.facebook.com^
