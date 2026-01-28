@@ -1,5 +1,5 @@
 # Bet-Blocker
-# Version: 2025-08-17 09:47:34
+# Version: 2026-01-28 08:17:46
 # Source: https://github.com/bet-blocker/bet-blocker/blob/main/blocklist.txt
 
 ||*.bet.br^
