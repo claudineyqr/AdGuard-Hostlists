@@ -3,3 +3,7 @@
 ||lojastarlink.com^
 ||starlinkoficialshop.com^
 ||-ds.metric.gstatic.com^
+
+# facebook
+|graph.facebook.com^
+|graph-fallback.facebook.com^
